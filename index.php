@@ -64,7 +64,7 @@ if(isset($_POST["submit"]))
 		$mail->Port = '80';								
 		$mail->SMTPAuth = true;							
 		$mail->Username = 'tharindujaye69@gmail.com';					
-		$mail->Password = 'Tharindu@9610';					
+		$mail->Password = 'tharindu69';					
 		$mail->SMTPSecure = '';							
 		$mail->From = $_POST["email"];					
 		$mail->FromName = $_POST["name"];				
